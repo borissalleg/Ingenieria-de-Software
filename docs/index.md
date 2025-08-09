@@ -1,19 +1,5 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+La ingeniería de software es una disciplina de la informática que se encarga del estudio, diseño, desarrollo, implementación, prueba y mantenimiento de sistemas de software mediante métodos sistemáticos, técnicos y científicos. Su objetivo principal es crear soluciones digitales que sean funcionales, eficientes, seguras y adaptables a las necesidades de los usuarios y organizaciones.
+Esta área combina principios de la programación, la gestión de proyectos, el diseño de sistemas y la calidad del software, promoviendo buenas prácticas que permiten construir productos tecnológicos confiables y sostenibles en el tiempo.
 
-## Commands
-
-Nuevos cambios 
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+En este tutorial se brinda orientación para que aprendas siguiendo semana a semana 

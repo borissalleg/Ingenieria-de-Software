@@ -5,13 +5,8 @@ nav:
   - Index : index.md
   - Semana 2 : 
      - Contenido : semana2/contenidosemana2.md
-     - Tipos de datos y estructuras: semana2/tipos_datos.md
-     - Control de flujo: semana2/control_flujo.md
+    
   
-  - Semana 3 : 
-     - Introducción a Python: semana2/introduccion_python.md
-     - Tipos de datos y estructuras: semana2/tipos_datos.md
-     - Control de flujo: semana2/control_flujo.md
   
  
 theme:
